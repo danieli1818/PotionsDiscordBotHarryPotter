@@ -1,0 +1,26 @@
+{
+  "name": "Draught of Living Death",
+  "description": "The Draught of Living Death is an extremely powerful sleeping draught, sending the drinker into a deathlike slumber. Its effects are similar to suspended animation. This draught is an advanced potion, taught to sixth year N.E.W.T. students at Hogwarts School of Witchcraft and Wizardry.",
+  "recipe": ["Infusion of Wormwood", "Powdered root of asphodel", {
+    "name": "Stir Clockwise",
+    "times": 2
+  },
+    "Sloth brain", {
+    "name": "Sopophorous bean's juice",
+    "times": 12
+  }, {
+    "name": "Stir Anti-Clockwise",
+    "times": 7
+  }],
+  "Severus_Snape_Recipe": ["Infusion of Wormwood", "Powdered root of asphodel", {
+    "name": "Stir Clockwise",
+    "times": 2
+  },
+    "Sloth brain", {
+      "name": "Silver Dagger Crushed Sopophorous beans",
+      "times": 13
+    }, {
+    "name": "Stir Anti-Clockwise",
+    "times": 7
+  }, "Stir Clockwise"]
+}

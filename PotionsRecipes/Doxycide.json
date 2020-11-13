@@ -1,0 +1,7 @@
+{
+  "name": "Doxycide",
+  "description": "Doxycide is a black-coloured foul smelling solution used to spray Doxies. It paralyses them for a period of time, allowing the user to safely remove the Doxies without fear of being bitten. The recipe can be found in Book of Potions.",
+  "recipe": ["Bundimun acid", "Grinded Streeler Shells", "Stir", "High Heat",
+    "Chopped Dragon Liver", "Stir", "Hemlock Essence", "Stir",
+    "Cowbane Essence", "Tormentil Tincture", "Stir", "High Heat", "Wave Wand"]
+}
