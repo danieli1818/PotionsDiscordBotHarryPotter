@@ -1,0 +1,13 @@
+{
+  "name": "Draught of Peace",
+  "description": "The Draught of Peace is a potion which relieves anxiety and agitation. Its ingredients are powdered moonstone, syrup of hellebore, powdered porcupine quills, and powdered unicorn horn. It should be a turquoise blue when finished and simmered before being consumed.",
+  "recipe": ["Powdered moonstone", "Stir", "Powdered moonstone",
+    "High Heat", "Syrup Of Hellebore", "High Heat", "Shaken Powdered Porcupine Quills",
+    "Stir", "Shaken Powdered Porcupine Quills", "High Heat", "Powdered Unicorn Horn",
+    "Stir", "High Heat", "Powdered moonstone", "High Heat", "Shaken Powdered Porcupine Quills",
+    "Stir", "Low Heat", {
+      "name": "Syrup Of Hellebore",
+      "times": 7
+    }],
+  "colors": ["green", "blue", "purple", "pink", "turquoise", "purple", "red", "orange", "turquoise", "purple", "pink", "red", "purple", "grey", "orange", "white", "light silver"]
+}

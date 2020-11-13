@@ -1,0 +1,6 @@
+{
+  "name": "Elixir to Induce Euphoria",
+  "description": "The Elixir to Induce Euphoria is a sunshine-yellow potion that induces a sense of inexplicable, irrational happiness upon the drinker.",
+  "recipe": ["Shrivelfig", "Porcupine quills", {"name": "Stir Anti-Clockwise", "times": 4}, "Peppermint",
+    "Sopophorous beans", "Wormwood", {"name":  "Stir Anti-Clockwise", "times": 6}]
+}
